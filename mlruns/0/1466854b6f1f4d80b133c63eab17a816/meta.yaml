@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1466854b6f1f4d80b133c63eab17a816/artifacts
+deleted_time: 1762941843064
+end_time: 1762890839627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1466854b6f1f4d80b133c63eab17a816
+run_name: agreeable-conch-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762890839054
+status: 4
+tags: []
+user_id: bansa

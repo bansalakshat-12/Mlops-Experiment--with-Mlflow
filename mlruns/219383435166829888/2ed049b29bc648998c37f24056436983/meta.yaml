@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/219383435166829888/2ed049b29bc648998c37f24056436983/artifacts
+end_time: 1762976970248
+entry_point_name: ''
+experiment_id: '219383435166829888'
+lifecycle_stage: active
+run_id: 2ed049b29bc648998c37f24056436983
+run_name: whimsical-pig-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762976945610
+status: 3
+tags: []
+user_id: bansa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b6425a82a676462e8f989875084278ac/artifacts
+end_time: 1762852506235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6425a82a676462e8f989875084278ac
+run_name: sedate-kite-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762852505954
+status: 4
+tags: []
+user_id: bansa

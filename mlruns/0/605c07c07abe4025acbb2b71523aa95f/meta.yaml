@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/605c07c07abe4025acbb2b71523aa95f/artifacts
+deleted_time: 1762941843060
+end_time: 1762890864128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 605c07c07abe4025acbb2b71523aa95f
+run_name: angry-grub-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762890863627
+status: 4
+tags: []
+user_id: bansa

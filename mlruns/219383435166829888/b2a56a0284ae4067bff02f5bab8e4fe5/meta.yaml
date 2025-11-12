@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/219383435166829888/b2a56a0284ae4067bff02f5bab8e4fe5/artifacts
+deleted_time: 1762956167210
+end_time: 1762956109876
+entry_point_name: ''
+experiment_id: '219383435166829888'
+lifecycle_stage: deleted
+run_id: b2a56a0284ae4067bff02f5bab8e4fe5
+run_name: vaunted-steed-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762956108487
+status: 4
+tags: []
+user_id: bansa

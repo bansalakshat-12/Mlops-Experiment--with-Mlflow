@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a6cd7f9c279d4c718ac702aeb0b4c4f5/artifacts
+deleted_time: 1762941843069
+end_time: 1762890502335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a6cd7f9c279d4c718ac702aeb0b4c4f5
+run_name: dapper-koi-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762890500643
+status: 4
+tags: []
+user_id: bansa

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fc09cf23dc3a4e5aa7a734d07973b818/artifacts
+end_time: 1762852685253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc09cf23dc3a4e5aa7a734d07973b818
+run_name: industrious-auk-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762852685013
+status: 3
+tags: []
+user_id: bansa

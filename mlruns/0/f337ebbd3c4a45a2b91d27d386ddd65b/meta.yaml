@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f337ebbd3c4a45a2b91d27d386ddd65b/artifacts
+end_time: 1762855490092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f337ebbd3c4a45a2b91d27d386ddd65b
+run_name: adaptable-goat-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762855489964
+status: 3
+tags: []
+user_id: bansa
