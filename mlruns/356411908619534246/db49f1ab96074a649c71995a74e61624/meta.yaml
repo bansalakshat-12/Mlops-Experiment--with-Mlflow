@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bansa/OneDrive/Desktop/MLOPS/Mlops-Experiment--with-Mlflow/mlruns/356411908619534246/db49f1ab96074a649c71995a74e61624/artifacts
+end_time: 1762979529997
+entry_point_name: ''
+experiment_id: '356411908619534246'
+lifecycle_stage: active
+run_id: db49f1ab96074a649c71995a74e61624
+run_name: welcoming-hog-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762979529805
+status: 3
+tags: []
+user_id: bansa

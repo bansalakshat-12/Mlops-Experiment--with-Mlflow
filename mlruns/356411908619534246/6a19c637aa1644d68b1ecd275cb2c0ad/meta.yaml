@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bansa/OneDrive/Desktop/MLOPS/Mlops-Experiment--with-Mlflow/mlruns/356411908619534246/6a19c637aa1644d68b1ecd275cb2c0ad/artifacts
+end_time: 1762979528942
+entry_point_name: ''
+experiment_id: '356411908619534246'
+lifecycle_stage: active
+run_id: 6a19c637aa1644d68b1ecd275cb2c0ad
+run_name: charming-rat-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762979528715
+status: 3
+tags: []
+user_id: bansa

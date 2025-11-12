@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bansa/OneDrive/Desktop/MLOPS/Mlops-Experiment--with-Mlflow/mlruns/356411908619534246/1fce4488a59d4197beee94ee98fa81d7/artifacts
+end_time: 1762979529152
+entry_point_name: ''
+experiment_id: '356411908619534246'
+lifecycle_stage: active
+run_id: 1fce4488a59d4197beee94ee98fa81d7
+run_name: enthused-kit-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762979528972
+status: 3
+tags: []
+user_id: bansa

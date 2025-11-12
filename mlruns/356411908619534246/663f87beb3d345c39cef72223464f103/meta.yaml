@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bansa/OneDrive/Desktop/MLOPS/Mlops-Experiment--with-Mlflow/mlruns/356411908619534246/663f87beb3d345c39cef72223464f103/artifacts
+end_time: 1762979530245
+entry_point_name: ''
+experiment_id: '356411908619534246'
+lifecycle_stage: active
+run_id: 663f87beb3d345c39cef72223464f103
+run_name: nervous-ant-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762979530033
+status: 3
+tags: []
+user_id: bansa
